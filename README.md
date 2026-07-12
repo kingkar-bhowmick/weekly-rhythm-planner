@@ -12,7 +12,7 @@ Built with [Vite](https://vitejs.dev) + React.
 
 ## 1. Run it locally (macOS / VS Code)
 
-You need [Node.js](https://nodejs.org) 18+ installed. Check with:
+You need [Node.js](https://nodejs.org) 20.19+ installed. Check with:
 
 ```bash
 node -v
